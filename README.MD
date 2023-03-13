@@ -1,4 +1,15 @@
 
+A setup project to test Monaco Editor in Electron.
+
+Baked with Electron-Forge https://www.electronforge.io
+
+
+# Setup the project
+1. create a new app
+`npm init electron-app@latest my-app -- --template=webpack-typescript`
+
+2. add react and react-dom
+3. add Monaco
 
 # Add Monaco Editor
 
